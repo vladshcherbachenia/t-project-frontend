@@ -1,0 +1,4 @@
+#sidebarMenu{
+    height: calc(100vh - 40px);
+    position: fixed;
+}
